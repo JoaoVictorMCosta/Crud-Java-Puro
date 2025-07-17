@@ -1,0 +1,6 @@
+# .gitignore
+bin/
+*.jar
+*.zip
+.DS_Store
+db.properties
